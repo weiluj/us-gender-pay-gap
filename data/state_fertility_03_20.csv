@@ -1,0 +1,919 @@
+year,state_name,stfips,fertility_rate,state
+2003,Alabama,1,62.58,AL
+2003,Alaska,2,71.71,AK
+2003,Arizona,4,79.67,AZ
+2003,Arkansas,5,67.46,AR
+2003,California,6,69.89,CA
+2003,Colorado,8,69.94,CO
+2003,Connecticut,9,59.7,CT
+2003,Delaware,10,64.43,DE
+2003,District of Columbia,11,53.44,DC
+2003,Florida,12,62.83,FL
+2003,Georgia,13,69.66,GA
+2003,Hawaii,15,71.26,HI
+2003,Idaho,16,76.87,ID
+2003,Illinois,17,67.53,IL
+2003,Indiana,18,66.08,IN
+2003,Iowa,19,64.24,IA
+2003,Kansas,20,69.73,KS
+2003,Kentucky,21,63.19,KY
+2003,Louisiana,22,65.74,LA
+2003,Maine,23,52.44,ME
+2003,Maryland,24,62.16,MD
+2003,Massachusetts,25,57.19,MA
+2003,Michigan,26,62.32,MI
+2003,Minnesota,27,64.9,MN
+2003,Mississippi,28,68.37,MS
+2003,Missouri,29,64.31,MO
+2003,Montana,30,63.05,MT
+2003,Nebraska,31,71.87,NE
+2003,Nevada,32,72.08,NV
+2003,New Hampshire,33,53.4,NH
+2003,New Jersey,34,64.83,NJ
+2003,New Mexico,35,71.02,NM
+2003,New York,36,60.8,NY
+2003,North Carolina,37,65.14,NC
+2003,North Dakota,38,60.99,ND
+2003,Ohio,39,62.94,OH
+2003,Oklahoma,40,70.21,OK
+2003,Oregon,41,63.06,OR
+2003,Pennsylvania,42,58.19,PA
+2003,Rhode Island,44,56.82,RI
+2003,South Carolina,45,62.77,SC
+2003,South Dakota,46,71.33,SD
+2003,Tennessee,47,63.31,TN
+2003,Texas,48,77.01,TX
+2003,Utah,49,91.8,UT
+2003,Vermont,50,51.66,VT
+2003,Virginia,51,62.83,VA
+2003,Washington,53,61.79,WA
+2003,West Virginia,54,58.39,WV
+2003,Wisconsin,55,61.04,WI
+2003,Wyoming,56,65.64,WY
+2004,Alabama,1,62.66,AL
+2004,Alaska,2,73.15,AK
+2004,Arizona,4,80.54,AZ
+2004,Arkansas,5,68.69,AR
+2004,California,6,70.07,CA
+2004,Colorado,8,69.29,CO
+2004,Connecticut,9,58.98,CT
+2004,Delaware,10,64.3,DE
+2004,District of Columbia,11,55.47,DC
+2004,Florida,12,63.29,FL
+2004,Georgia,13,70.56,GA
+2004,Hawaii,15,71,HI
+2004,Idaho,16,78.54,ID
+2004,Illinois,17,67.28,IL
+2004,Indiana,18,66.85,IN
+2004,Iowa,19,65.03,IA
+2004,Kansas,20,70.47,KS
+2004,Kentucky,21,64.06,KY
+2004,Louisiana,22,66.2,LA
+2004,Maine,23,53.2,ME
+2004,Maryland,24,61.8,MD
+2004,Massachusetts,25,56.58,MA
+2004,Michigan,26,62.28,MI
+2004,Minnesota,27,65.71,MN
+2004,Mississippi,28,69.15,MS
+2004,Missouri,29,65.04,MO
+2004,Montana,30,63.66,MT
+2004,Nebraska,31,73.35,NE
+2004,Nevada,32,72.46,NV
+2004,New Hampshire,33,54.3,NH
+2004,New Jersey,34,64.18,NJ
+2004,New Mexico,35,72.05,NM
+2004,New York,36,60.28,NY
+2004,North Carolina,37,65.55,NC
+2004,North Dakota,38,62.7,ND
+2004,Ohio,39,63.18,OH
+2004,Oklahoma,40,70.94,OK
+2004,Oregon,41,62.9,OR
+2004,Pennsylvania,42,58.01,PA
+2004,Rhode Island,44,55.3,RI
+2004,South Carolina,45,63.42,SC
+2004,South Dakota,46,73.47,SD
+2004,Tennessee,47,63.84,TN
+2004,Texas,48,77.13,TX
+2004,Utah,49,92.5,UT
+2004,Vermont,50,52.13,VT
+2004,Virginia,51,64.02,VA
+2004,Washington,53,62.45,WA
+2004,West Virginia,54,58.79,WV
+2004,Wisconsin,55,61.44,WI
+2004,Wyoming,56,66.83,WY
+2005,Alabama,1,63.57,AL
+2005,Alaska,2,73.87,AK
+2005,Arizona,4,80.58,AZ
+2005,Arkansas,5,69.46,AR
+2005,California,6,70.49,CA
+2005,Colorado,8,69.57,CO
+2005,Connecticut,9,58.76,CT
+2005,Delaware,10,65.26,DE
+2005,District of Columbia,11,55.38,DC
+2005,Florida,12,64.34,FL
+2005,Georgia,13,71.42,GA
+2005,Hawaii,15,69.24,HI
+2005,Idaho,16,78.95,ID
+2005,Illinois,17,67.01,IL
+2005,Indiana,18,66.99,IN
+2005,Iowa,19,66.93,IA
+2005,Kansas,20,71.26,KS
+2005,Kentucky,21,65.04,KY
+2005,Louisiana,22,62.01,LA
+2005,Maine,23,54.34,ME
+2005,Maryland,24,62.02,MD
+2005,Massachusetts,25,55.94,MA
+2005,Michigan,26,61.87,MI
+2005,Minnesota,27,66.28,MN
+2005,Mississippi,28,68.66,MS
+2005,Missouri,29,65.86,MO
+2005,Montana,30,64.04,MT
+2005,Nebraska,31,73.1,NE
+2005,Nevada,32,73.92,NV
+2005,New Hampshire,33,54.08,NH
+2005,New Jersey,34,63.7,NJ
+2005,New Mexico,35,72.98,NM
+2005,New York,36,59.89,NY
+2005,North Carolina,37,66.59,NC
+2005,North Dakota,38,64.79,ND
+2005,Ohio,39,63.5,OH
+2005,Oklahoma,40,71.7,OK
+2005,Oregon,41,62.91,OR
+2005,Pennsylvania,42,58.49,PA
+2005,Rhode Island,44,55.64,RI
+2005,South Carolina,45,64.34,SC
+2005,South Dakota,46,74.68,SD
+2005,Tennessee,47,65.15,TN
+2005,Texas,48,77.4,TX
+2005,Utah,49,92.81,UT
+2005,Vermont,50,50.23,VT
+2005,Virginia,51,64.04,VA
+2005,Washington,53,62.96,WA
+2005,West Virginia,54,59.15,WV
+2005,Wisconsin,55,62.53,WI
+2005,Wyoming,56,71.37,WY
+2006,Alabama,1,66.14,AL
+2006,Alaska,2,77.24,AK
+2006,Arizona,4,83.53,AZ
+2006,Arkansas,5,72.06,AR
+2006,California,6,72.11,CA
+2006,Colorado,8,70.94,CO
+2006,Connecticut,9,59.2,CT
+2006,Delaware,10,66.91,DE
+2006,District of Columbia,11,57.94,DC
+2006,Florida,12,66.37,FL
+2006,Georgia,13,73.39,GA
+2006,Hawaii,15,72.77,HI
+2006,Idaho,16,81.4,ID
+2006,Illinois,17,67.86,IL
+2006,Indiana,18,68.15,IN
+2006,Iowa,19,69.47,IA
+2006,Kansas,20,73.7,KS
+2006,Kentucky,21,67.26,KY
+2006,Louisiana,22,69.81,LA
+2006,Maine,23,55.16,ME
+2006,Maryland,24,64.15,MD
+2006,Massachusetts,25,56.89,MA
+2006,Michigan,26,62.5,MI
+2006,Minnesota,27,68.97,MN
+2006,Mississippi,28,75.48,MS
+2006,Missouri,29,68.27,MO
+2006,Montana,30,69.19,MT
+2006,Nebraska,31,75.06,NE
+2006,Nevada,32,76.51,NV
+2006,New Hampshire,33,54.42,NH
+2006,New Jersey,34,64.81,NJ
+2006,New Mexico,35,75.5,NM
+2006,New York,36,61.2,NY
+2006,North Carolina,37,68.12,NC
+2006,North Dakota,38,66.99,ND
+2006,Ohio,39,65.08,OH
+2006,Oklahoma,40,74.47,OK
+2006,Oregon,41,66.04,OR
+2006,Pennsylvania,42,60.17,PA
+2006,Rhode Island,44,54.96,RI
+2006,South Carolina,45,68.61,SC
+2006,South Dakota,46,78.17,SD
+2006,Tennessee,47,66.7,TN
+2006,Texas,48,78.69,TX
+2006,Utah,49,94.76,UT
+2006,Vermont,50,52.44,VT
+2006,Virginia,51,65.73,VA
+2006,Washington,53,65.53,WA
+2006,West Virginia,54,59.81,WV
+2006,Wisconsin,55,64.17,WI
+2006,Wyoming,56,75.33,WY
+2007,Alabama,1,67.61,AL
+2007,Alaska,2,78,AK
+2007,Arizona,4,82.65,AZ
+2007,Arkansas,5,72.72,AR
+2007,California,6,72.58,CA
+2007,Colorado,8,70.48,CO
+2007,Connecticut,9,59.38,CT
+2007,Delaware,10,67.69,DE
+2007,District of Columbia,11,59.37,DC
+2007,Florida,12,66.83,FL
+2007,Georgia,13,73.57,GA
+2007,Hawaii,15,73.73,HI
+2007,Idaho,16,82.96,ID
+2007,Illinois,17,68.1,IL
+2007,Indiana,18,69.24,IN
+2007,Iowa,19,70.3,IA
+2007,Kansas,20,75.68,KS
+2007,Kentucky,21,68.75,KY
+2007,Louisiana,22,72.4,LA
+2007,Maine,23,55.83,ME
+2007,Maryland,24,64.95,MD
+2007,Massachusetts,25,57.4,MA
+2007,Michigan,26,62.33,MI
+2007,Minnesota,27,69.43,MN
+2007,Mississippi,28,76.26,MS
+2007,Missouri,29,68.88,MO
+2007,Montana,30,68.74,MT
+2007,Nebraska,31,75.96,NE
+2007,Nevada,32,76.43,NV
+2007,New Hampshire,33,54.27,NH
+2007,New Jersey,34,65.85,NJ
+2007,New Mexico,35,77,NM
+2007,New York,36,62.29,NY
+2007,North Carolina,37,68.61,NC
+2007,North Dakota,38,68.97,ND
+2007,Ohio,39,65.78,OH
+2007,Oklahoma,40,75.69,OK
+2007,Oregon,41,66.37,OR
+2007,Pennsylvania,42,61.04,PA
+2007,Rhode Island,44,55.88,RI
+2007,South Carolina,45,68.67,SC
+2007,South Dakota,46,80.47,SD
+2007,Tennessee,47,68.19,TN
+2007,Texas,48,79.22,TX
+2007,Utah,49,95.67,UT
+2007,Vermont,50,53.19,VT
+2007,Virginia,51,66.27,VA
+2007,Washington,53,66.7,WA
+2007,West Virginia,54,63.23,WV
+2007,Wisconsin,55,65.01,WI
+2007,Wyoming,56,76.49,WY
+2008,Alabama,1,67.19,AL
+2008,Alaska,2,81.29,AK
+2008,Arizona,4,78.97,AZ
+2008,Arkansas,5,71.46,AR
+2008,California,6,70.48,CA
+2008,Colorado,8,69.13,CO
+2008,Connecticut,9,57.78,CT
+2008,Delaware,10,67.17,DE
+2008,District of Columbia,11,59.73,DC
+2008,Florida,12,64.74,FL
+2008,Georgia,13,70.8,GA
+2008,Hawaii,15,74.78,HI
+2008,Idaho,16,82.52,ID
+2008,Illinois,17,66.75,IL
+2008,Indiana,18,68.49,IN
+2008,Iowa,19,69.44,IA
+2008,Kansas,20,75.56,KS
+2008,Kentucky,21,67.72,KY
+2008,Louisiana,22,70.9,LA
+2008,Maine,23,54.54,ME
+2008,Maryland,24,64.58,MD
+2008,Massachusetts,25,56.82,MA
+2008,Michigan,26,61.37,MI
+2008,Minnesota,27,68.55,MN
+2008,Mississippi,28,73.86,MS
+2008,Missouri,29,68.37,MO
+2008,Montana,30,69.55,MT
+2008,Nebraska,31,76.3,NE
+2008,Nevada,32,72.09,NV
+2008,New Hampshire,33,53.17,NH
+2008,New Jersey,34,64.31,NJ
+2008,New Mexico,35,76.08,NM
+2008,New York,36,61.63,NY
+2008,North Carolina,37,67.66,NC
+2008,North Dakota,38,70.03,ND
+2008,Ohio,39,65.47,OH
+2008,Oklahoma,40,75.18,OK
+2008,Oregon,41,65.53,OR
+2008,Pennsylvania,42,60.67,PA
+2008,Rhode Island,44,55.11,RI
+2008,South Carolina,45,68.17,SC
+2008,South Dakota,46,79.48,SD
+2008,Tennessee,47,67.09,TN
+2008,Texas,48,77.84,TX
+2008,Utah,49,94.8,UT
+2008,Vermont,50,52.49,VT
+2008,Virginia,51,64.88,VA
+2008,Washington,53,67.26,WA
+2008,West Virginia,54,62.28,WV
+2008,Wisconsin,55,65.02,WI
+2008,Wyoming,56,76.97,WY
+2009,Alabama,1,64.94,AL
+2009,Alaska,2,79.46,AK
+2009,Arizona,4,73.5,AZ
+2009,Arkansas,5,69.97,AR
+2009,California,6,67.12,CA
+2009,Colorado,8,67.24,CO
+2009,Connecticut,9,55.97,CT
+2009,Delaware,10,64.36,DE
+2009,District of Columbia,11,57.44,DC
+2009,Florida,12,62.17,FL
+2009,Georgia,13,68.15,GA
+2009,Hawaii,15,72.3,HI
+2009,Idaho,16,77.58,ID
+2009,Illinois,17,64.81,IL
+2009,Indiana,18,67.15,IN
+2009,Iowa,19,68.77,IA
+2009,Kansas,20,74.78,KS
+2009,Kentucky,21,67.19,KY
+2009,Louisiana,22,70.24,LA
+2009,Maine,23,54.95,ME
+2009,Maryland,24,62.95,MD
+2009,Massachusetts,25,55.41,MA
+2009,Michigan,26,60.5,MI
+2009,Minnesota,27,67.25,MN
+2009,Mississippi,28,70.8,MS
+2009,Missouri,29,66.87,MO
+2009,Montana,30,68.13,MT
+2009,Nebraska,31,76.07,NE
+2009,Nevada,32,68.4,NV
+2009,New Hampshire,33,52.85,NH
+2009,New Jersey,34,63.27,NJ
+2009,New Mexico,35,73.01,NM
+2009,New York,36,61.2,NY
+2009,North Carolina,37,65.15,NC
+2009,North Dakota,38,70.09,ND
+2009,Ohio,39,64.32,OH
+2009,Oklahoma,40,74.45,OK
+2009,Oregon,41,62.6,OR
+2009,Pennsylvania,42,59.73,PA
+2009,Rhode Island,44,52.81,RI
+2009,South Carolina,45,65.29,SC
+2009,South Dakota,46,78.59,SD
+2009,Tennessee,47,64.48,TN
+2009,Texas,48,76.13,TX
+2009,Utah,49,90.41,UT
+2009,Vermont,50,51.23,VT
+2009,Virginia,51,63.71,VA
+2009,Washington,53,66.05,WA
+2009,West Virginia,54,61.92,WV
+2009,Wisconsin,55,64.17,WI
+2009,Wyoming,56,74.07,WY
+2010,Alabama,1,61.82,AL
+2010,Alaska,2,78.53,AK
+2010,Arizona,4,67.29,AZ
+2010,Arkansas,5,67.83,AR
+2010,California,6,63.42,CA
+2010,Colorado,8,62.65,CO
+2010,Connecticut,9,54.29,CT
+2010,Delaware,10,62.92,DE
+2010,District of Columbia,11,55.97,DC
+2010,Florida,12,59.64,FL
+2010,Georgia,13,63.78,GA
+2010,Hawaii,15,71.91,HI
+2010,Idaho,16,72.26,ID
+2010,Illinois,17,61.51,IL
+2010,Indiana,18,65.02,IN
+2010,Iowa,19,66.08,IA
+2010,Kansas,20,71.22,KS
+2010,Kentucky,21,64.72,KY
+2010,Louisiana,22,66.4,LA
+2010,Maine,23,53.11,ME
+2010,Maryland,24,61.29,MD
+2010,Massachusetts,25,54.32,MA
+2010,Michigan,26,59.85,MI
+2010,Minnesota,27,65.51,MN
+2010,Mississippi,28,66.04,MS
+2010,Missouri,29,64.79,MO
+2010,Montana,30,66.7,MT
+2010,Nebraska,31,72,NE
+2010,Nevada,32,64.25,NV
+2010,New Hampshire,33,51.94,NH
+2010,New Jersey,34,61.33,NJ
+2010,New Mexico,35,68.22,NM
+2010,New York,36,59.84,NY
+2010,North Carolina,37,61.48,NC
+2010,North Dakota,38,72.36,ND
+2010,Ohio,39,62.1,OH
+2010,Oklahoma,40,70.37,OK
+2010,Oregon,41,59.44,OR
+2010,Pennsylvania,42,58.84,PA
+2010,Rhode Island,44,51.54,RI
+2010,South Carolina,45,61.82,SC
+2010,South Dakota,46,77.1,SD
+2010,Tennessee,47,62.31,TN
+2010,Texas,48,69.81,TX
+2010,Utah,49,83.61,UT
+2010,Vermont,50,51.79,VT
+2010,Virginia,51,61.88,VA
+2010,Washington,53,63.65,WA
+2010,West Virginia,54,60.71,WV
+2010,Wisconsin,55,62.01,WI
+2010,Wyoming,56,69.09,WY
+2011,Alabama,1,62.51,AL
+2011,Alaska,2,80.09,AK
+2011,Arizona,4,69.29,AZ
+2011,Arkansas,5,67.68,AR
+2011,California,6,64.77,CA
+2011,Colorado,8,64.73,CO
+2011,Connecticut,9,54.55,CT
+2011,Delaware,10,63.4,DE
+2011,District of Columbia,11,56.46,DC
+2011,Florida,12,60.26,FL
+2011,Georgia,13,64.61,GA
+2011,Hawaii,15,72.44,HI
+2011,Idaho,16,75.74,ID
+2011,Illinois,17,62.77,IL
+2011,Indiana,18,65.2,IN
+2011,Iowa,19,67.14,IA
+2011,Kansas,20,73.3,KS
+2011,Kentucky,21,65.26,KY
+2011,Louisiana,22,67.19,LA
+2011,Maine,23,53.61,ME
+2011,Maryland,24,61.84,MD
+2011,Massachusetts,25,53.95,MA
+2011,Michigan,26,59.7,MI
+2011,Minnesota,27,65.61,MN
+2011,Mississippi,28,66.28,MS
+2011,Missouri,29,65.23,MO
+2011,Montana,30,67.12,MT
+2011,Nebraska,31,73,NE
+2011,Nevada,32,65.34,NV
+2011,New Hampshire,33,51.47,NH
+2011,New Jersey,34,61.51,NJ
+2011,New Mexico,35,69.87,NM
+2011,New York,36,60.37,NY
+2011,North Carolina,37,62.76,NC
+2011,North Dakota,38,70.5,ND
+2011,Ohio,39,62.24,OH
+2011,Oklahoma,40,72.27,OK
+2011,Oregon,41,60.39,OR
+2011,Pennsylvania,42,58.68,PA
+2011,Rhode Island,44,52.07,RI
+2011,South Carolina,45,62.85,SC
+2011,South Dakota,46,77.52,SD
+2011,Tennessee,47,62.38,TN
+2011,Texas,48,72.49,TX
+2011,Utah,49,86.79,UT
+2011,Vermont,50,52.6,VT
+2011,Virginia,51,62.32,VA
+2011,Washington,53,63.83,WA
+2011,West Virginia,54,59.86,WV
+2011,Wisconsin,55,62.4,WI
+2011,Wyoming,56,70.87,WY
+2012,Alabama,1,60.95,AL
+2012,Alaska,2,75.94,AK
+2012,Arizona,4,67.48,AZ
+2012,Arkansas,5,66.96,AR
+2012,California,6,63.29,CA
+2012,Colorado,8,62.05,CO
+2012,Connecticut,9,53.21,CT
+2012,Delaware,10,61.4,DE
+2012,District of Columbia,11,55.27,DC
+2012,Florida,12,59,FL
+2012,Georgia,13,62.38,GA
+2012,Hawaii,15,71.61,HI
+2012,Idaho,16,74.11,ID
+2012,Illinois,17,60.91,IL
+2012,Indiana,18,64.69,IN
+2012,Iowa,19,66.76,IA
+2012,Kansas,20,72.31,KS
+2012,Kentucky,21,65.45,KY
+2012,Louisiana,22,67.01,LA
+2012,Maine,23,53.95,ME
+2012,Maryland,24,60.81,MD
+2012,Massachusetts,25,53.52,MA
+2012,Michigan,26,59.62,MI
+2012,Minnesota,27,65.73,MN
+2012,Mississippi,28,64.2,MS
+2012,Missouri,29,64.34,MO
+2012,Montana,30,66.62,MT
+2012,Nebraska,31,72.35,NE
+2012,Nevada,32,62.98,NV
+2012,New Hampshire,33,50.27,NH
+2012,New Jersey,34,60.35,NJ
+2012,New Mexico,35,67.81,NM
+2012,New York,36,59.67,NY
+2012,North Carolina,37,61.04,NC
+2012,North Dakota,38,74.63,ND
+2012,Ohio,39,62.6,OH
+2012,Oklahoma,40,70.52,OK
+2012,Oregon,41,59,OR
+2012,Pennsylvania,42,58.75,PA
+2012,Rhode Island,44,51.74,RI
+2012,South Carolina,45,61.37,SC
+2012,South Dakota,46,78.08,SD
+2012,Tennessee,47,62.63,TN
+2012,Texas,48,69.88,TX
+2012,Utah,49,83.09,UT
+2012,Vermont,50,51.6,VT
+2012,Virginia,51,61.66,VA
+2012,Washington,53,63.52,WA
+2012,West Virginia,54,61.33,WV
+2012,Wisconsin,55,61.83,WI
+2012,Wyoming,56,69.47,WY
+2013,Alabama,1,60.61,AL
+2013,Alaska,2,77.81,AK
+2013,Arizona,4,66.33,AZ
+2013,Arkansas,5,65.89,AR
+2013,California,6,61.97,CA
+2013,Colorado,8,60.99,CO
+2013,Connecticut,9,52.68,CT
+2013,Delaware,10,60.33,DE
+2013,District of Columbia,11,53.29,DC
+2013,Florida,12,59.27,FL
+2013,Georgia,13,61.62,GA
+2013,Hawaii,15,71.52,HI
+2013,Idaho,16,71.81,ID
+2013,Illinois,17,60.28,IL
+2013,Indiana,18,64.31,IN
+2013,Iowa,19,67.07,IA
+2013,Kansas,20,69.54,KS
+2013,Kentucky,21,65.28,KY
+2013,Louisiana,22,67.33,LA
+2013,Maine,23,54.37,ME
+2013,Maryland,24,60.11,MD
+2013,Massachusetts,25,52.84,MA
+2013,Michigan,26,60.03,MI
+2013,Minnesota,27,65.89,MN
+2013,Mississippi,28,64.21,MS
+2013,Missouri,29,64.11,MO
+2013,Montana,30,67.21,MT
+2013,Nebraska,31,72.18,NE
+2013,Nevada,32,62.84,NV
+2013,New Hampshire,33,50.79,NH
+2013,New Jersey,34,59.6,NJ
+2013,New Mexico,35,66.08,NM
+2013,New York,36,58.76,NY
+2013,North Carolina,37,60.36,NC
+2013,North Dakota,38,75.34,ND
+2013,Ohio,39,62.75,OH
+2013,Oklahoma,40,70.59,OK
+2013,Oregon,41,58.6,OR
+2013,Pennsylvania,42,58.36,PA
+2013,Rhode Island,44,51.55,RI
+2013,South Carolina,45,60.63,SC
+2013,South Dakota,46,78.09,SD
+2013,Tennessee,47,62.14,TN
+2013,Texas,48,69.87,TX
+2013,Utah,49,80.91,UT
+2013,Vermont,50,51.36,VT
+2013,Virginia,51,60.93,VA
+2013,Washington,53,62.57,WA
+2013,West Virginia,54,61.49,WV
+2013,Wisconsin,55,61.32,WI
+2013,Wyoming,56,69.34,WY
+2014,Alabama,1,61.83,AL
+2014,Alaska,2,77.34,AK
+2014,Arizona,4,66.43,AZ
+2014,Arkansas,5,67,AR
+2014,California,6,62.38,CA
+2014,Colorado,8,60.69,CO
+2014,Connecticut,9,53.04,CT
+2014,Delaware,10,60.82,DE
+2014,District of Columbia,11,53.55,DC
+2014,Florida,12,59.66,FL
+2014,Georgia,13,62.22,GA
+2014,Hawaii,15,69.29,HI
+2014,Idaho,16,72.66,ID
+2014,Illinois,17,61.07,IL
+2014,Indiana,18,64.91,IN
+2014,Iowa,19,67.77,IA
+2014,Kansas,20,70,KS
+2014,Kentucky,21,65.8,KY
+2014,Louisiana,22,68.42,LA
+2014,Maine,23,54.3,ME
+2014,Maryland,24,61.5,MD
+2014,Massachusetts,25,52.52,MA
+2014,Michigan,26,60.59,MI
+2014,Minnesota,27,66.36,MN
+2014,Mississippi,28,64.42,MS
+2014,Missouri,29,64.07,MO
+2014,Montana,30,66.96,MT
+2014,Nebraska,31,73.59,NE
+2014,Nevada,32,63.33,NV
+2014,New Hampshire,33,50.5,NH
+2014,New Jersey,34,59.95,NJ
+2014,New Mexico,35,65.53,NM
+2014,New York,36,59.02,NY
+2014,North Carolina,37,61.01,NC
+2014,North Dakota,38,78.81,ND
+2014,Ohio,39,63.06,OH
+2014,Oklahoma,40,69.94,OK
+2014,Oregon,41,58.7,OR
+2014,Pennsylvania,42,59.1,PA
+2014,Rhode Island,44,51.51,RI
+2014,South Carolina,45,61.08,SC
+2014,South Dakota,46,77.79,SD
+2014,Tennessee,47,62.98,TN
+2014,Texas,48,70.7,TX
+2014,Utah,49,80,UT
+2014,Vermont,50,52.85,VT
+2014,Virginia,51,61.34,VA
+2014,Washington,53,63.34,WA
+2014,West Virginia,54,60.29,WV
+2014,Wisconsin,55,61.77,WI
+2014,Wyoming,56,69.45,WY
+2015,Alabama,1,62.21,AL
+2015,Alaska,2,77,AK
+2015,Arizona,4,64.67,AZ
+2015,Arkansas,5,67.46,AR
+2015,California,6,60.83,CA
+2015,Colorado,8,60.17,CO
+2015,Connecticut,9,52.52,CT
+2015,Delaware,10,61.75,DE
+2015,District of Columbia,11,52.81,DC
+2015,Florida,12,59.96,FL
+2015,Georgia,13,61.99,GA
+2015,Hawaii,15,68.68,HI
+2015,Idaho,16,71.83,ID
+2015,Illinois,17,61.34,IL
+2015,Indiana,18,64.82,IN
+2015,Iowa,19,67.1,IA
+2015,Kansas,20,69.9,KS
+2015,Kentucky,21,65.72,KY
+2015,Louisiana,22,68.53,LA
+2015,Maine,23,54.31,ME
+2015,Maryland,24,61.32,MD
+2015,Massachusetts,25,52.03,MA
+2015,Michigan,26,60.25,MI
+2015,Minnesota,27,66.25,MN
+2015,Mississippi,28,64.05,MS
+2015,Missouri,29,63.8,MO
+2015,Montana,30,67.32,MT
+2015,Nebraska,31,72.82,NE
+2015,Nevada,32,63.26,NV
+2015,New Hampshire,33,51.3,NH
+2015,New Jersey,34,60.01,NJ
+2015,New Mexico,35,65.28,NM
+2015,New York,36,58.79,NY
+2015,North Carolina,37,60.67,NC
+2015,North Dakota,38,76.4,ND
+2015,Ohio,39,63.08,OH
+2015,Oklahoma,40,69.14,OK
+2015,Oregon,41,58.06,OR
+2015,Pennsylvania,42,58.75,PA
+2015,Rhode Island,44,52.46,RI
+2015,South Carolina,45,61.07,SC
+2015,South Dakota,46,78.17,SD
+2015,Tennessee,47,62.85,TN
+2015,Texas,48,70.21,TX
+2015,Utah,49,77.96,UT
+2015,Vermont,50,51.06,VT
+2015,Virginia,51,61.31,VA
+2015,Washington,53,62.79,WA
+2015,West Virginia,54,59.39,WV
+2015,Wisconsin,55,61.77,WI
+2015,Wyoming,56,70.16,WY
+2016,Alabama,1,62.08,AL
+2016,Alaska,2,76.06,AK
+2016,Arizona,4,63.53,AZ
+2016,Arkansas,5,66.36,AR
+2016,California,6,60.63,CA
+2016,Colorado,8,59.31,CO
+2016,Connecticut,9,53.42,CT
+2016,Delaware,10,61.16,DE
+2016,District of Columbia,11,53.75,DC
+2016,Florida,12,59.67,FL
+2016,Georgia,13,61.09,GA
+2016,Hawaii,15,67.58,HI
+2016,Idaho,16,69.8,ID
+2016,Illinois,17,60.58,IL
+2016,Indiana,18,64.25,IN
+2016,Iowa,19,66.86,IA
+2016,Kansas,20,68.12,KS
+2016,Kentucky,21,65.35,KY
+2016,Louisiana,22,67.18,LA
+2016,Maine,23,54.92,ME
+2016,Maryland,24,61.28,MD
+2016,Massachusetts,25,51.94,MA
+2016,Michigan,26,60.47,MI
+2016,Minnesota,27,66.13,MN
+2016,Mississippi,28,63.68,MS
+2016,Missouri,29,63.78,MO
+2016,Montana,30,65.34,MT
+2016,Nebraska,31,72.22,NE
+2016,Nevada,32,62.56,NV
+2016,New Hampshire,33,50.93,NH
+2016,New Jersey,34,60.12,NJ
+2016,New Mexico,35,62.67,NM
+2016,New York,36,58.56,NY
+2016,North Carolina,37,60.31,NC
+2016,North Dakota,38,77.27,ND
+2016,Ohio,39,62.84,OH
+2016,Oklahoma,40,68.44,OK
+2016,Oregon,41,57.03,OR
+2016,Pennsylvania,42,58.49,PA
+2016,Rhode Island,44,51.79,RI
+2016,South Carolina,45,59.87,SC
+2016,South Dakota,46,77.65,SD
+2016,Tennessee,47,62.02,TN
+2016,Texas,48,68.55,TX
+2016,Utah,49,76.15,UT
+2016,Vermont,50,50.32,VT
+2016,Virginia,51,61.13,VA
+2016,Washington,53,62.96,WA
+2016,West Virginia,54,58.22,WV
+2016,Wisconsin,55,61.59,WI
+2016,Wyoming,56,67.15,WY
+2017,Alabama,1,62.05,AL
+2017,Alaska,2,71.51,AK
+2017,Arizona,4,60.84,AZ
+2017,Arkansas,5,64.98,AR
+2017,California,6,58.2,CA
+2017,Colorado,8,56.59,CO
+2017,Connecticut,9,52.34,CT
+2017,Delaware,10,60.19,DE
+2017,District of Columbia,11,51.27,DC
+2017,Florida,12,58.42,FL
+2017,Georgia,13,60.19,GA
+2017,Hawaii,15,65.87,HI
+2017,Idaho,16,67.43,ID
+2017,Illinois,17,59,IL
+2017,Indiana,18,63.42,IN
+2017,Iowa,19,64.89,IA
+2017,Kansas,20,65.38,KS
+2017,Kentucky,21,64.53,KY
+2017,Louisiana,22,65.18,LA
+2017,Maine,23,53.12,ME
+2017,Maryland,24,60.04,MD
+2017,Massachusetts,25,51.17,MA
+2017,Michigan,26,59.45,MI
+2017,Minnesota,27,64.3,MN
+2017,Mississippi,28,63.13,MS
+2017,Missouri,29,62.33,MO
+2017,Montana,30,62.07,MT
+2017,Nebraska,31,69.75,NE
+2017,Nevada,32,60.69,NV
+2017,New Hampshire,33,50.2,NH
+2017,New Jersey,34,59.03,NJ
+2017,New Mexico,35,60.13,NM
+2017,New York,36,57.42,NY
+2017,North Carolina,37,59.57,NC
+2017,North Dakota,38,73.4,ND
+2017,Ohio,39,62.1,OH
+2017,Oklahoma,40,65.32,OK
+2017,Oregon,41,53.84,OR
+2017,Pennsylvania,42,57.79,PA
+2017,Rhode Island,44,50.88,RI
+2017,South Carolina,45,59.05,SC
+2017,South Dakota,46,76.37,SD
+2017,Tennessee,47,61.73,TN
+2017,Texas,48,64.91,TX
+2017,Utah,49,71.96,UT
+2017,Vermont,50,49.67,VT
+2017,Virginia,51,59.72,VA
+2017,Washington,53,59.78,WA
+2017,West Virginia,54,57.95,WV
+2017,Wisconsin,55,59.95,WI
+2017,Wyoming,56,64.07,WY
+2018,Alabama,1,60.88,AL
+2018,Alaska,2,69.28,AK
+2018,Arizona,4,58.62,AZ
+2018,Arkansas,5,64.05,AR
+2018,California,6,56.24,CA
+2018,Colorado,8,54.12,CO
+2018,Connecticut,9,51.84,CT
+2018,Delaware,10,59.09,DE
+2018,District of Columbia,11,48.76,DC
+2018,Florida,12,57.17,FL
+2018,Georgia,13,58.32,GA
+2018,Hawaii,15,64.15,HI
+2018,Idaho,16,63.39,ID
+2018,Illinois,17,57.55,IL
+2018,Indiana,18,62.84,IN
+2018,Iowa,19,63.52,IA
+2018,Kansas,20,64.74,KS
+2018,Kentucky,21,63.46,KY
+2018,Louisiana,22,64.33,LA
+2018,Maine,23,53.26,ME
+2018,Maryland,24,59.88,MD
+2018,Massachusetts,25,49.47,MA
+2018,Michigan,26,58.48,MI
+2018,Minnesota,27,62.7,MN
+2018,Mississippi,28,62.76,MS
+2018,Missouri,29,62.4,MO
+2018,Montana,30,59.55,MT
+2018,Nebraska,31,68.42,NE
+2018,Nevada,32,60.04,NV
+2018,New Hampshire,33,49.06,NH
+2018,New Jersey,34,60.08,NJ
+2018,New Mexico,35,57.96,NM
+2018,New York,36,57.92,NY
+2018,North Carolina,37,58.39,NC
+2018,North Dakota,38,72.16,ND
+2018,Ohio,39,61.11,OH
+2018,Oklahoma,40,64.61,OK
+2018,Oregon,41,51.4,OR
+2018,Pennsylvania,42,56.92,PA
+2018,Rhode Island,44,50.53,RI
+2018,South Carolina,45,58.15,SC
+2018,South Dakota,46,73.61,SD
+2018,Tennessee,47,61.08,TN
+2018,Texas,48,63.37,TX
+2018,Utah,49,68.39,UT
+2018,Vermont,50,47.21,VT
+2018,Virginia,51,59.14,VA
+2018,Washington,53,57.48,WA
+2018,West Virginia,54,57.2,WV
+2018,Wisconsin,55,58.94,WI
+2018,Wyoming,56,61.04,WY
+2019,Alabama,1,61.74,AL
+2019,Alaska,2,68.07,AK
+2019,Arizona,4,56.75,AZ
+2019,Arkansas,5,63.22,AR
+2019,California,6,55.36,CA
+2019,Colorado,8,53.32,CO
+2019,Connecticut,9,51.09,CT
+2019,Delaware,10,58.66,DE
+2019,District of Columbia,11,47.69,DC
+2019,Florida,12,56.57,FL
+2019,Georgia,13,57.97,GA
+2019,Hawaii,15,63.9,HI
+2019,Idaho,16,63.98,ID
+2019,Illinois,17,56.11,IL
+2019,Indiana,18,61.7,IN
+2019,Iowa,19,63.35,IA
+2019,Kansas,20,62.99,KS
+2019,Kentucky,21,62.58,KY
+2019,Louisiana,22,63.9,LA
+2019,Maine,23,50.61,ME
+2019,Maryland,24,59.2,MD
+2019,Massachusetts,25,49.6,MA
+2019,Michigan,26,57.43,MI
+2019,Minnesota,27,61.04,MN
+2019,Mississippi,28,62.7,MS
+2019,Missouri,29,61.28,MO
+2019,Montana,30,56.76,MT
+2019,Nebraska,31,66.23,NE
+2019,Nevada,32,58.31,NV
+2019,New Hampshire,33,48.18,NH
+2019,New Jersey,34,59.49,NJ
+2019,New Mexico,35,57.62,NM
+2019,New York,36,57.17,NY
+2019,North Carolina,37,57.75,NC
+2019,North Dakota,38,70.56,ND
+2019,Ohio,39,60.78,OH
+2019,Oklahoma,40,63.43,OK
+2019,Oregon,41,50.56,OR
+2019,Pennsylvania,42,56.33,PA
+2019,Rhode Island,44,48.79,RI
+2019,South Carolina,45,57.95,SC
+2019,South Dakota,46,70.63,SD
+2019,Tennessee,47,60.31,TN
+2019,Texas,48,62.54,TX
+2019,Utah,49,66.68,UT
+2019,Vermont,50,46.81,VT
+2019,Virginia,51,57.76,VA
+2019,Washington,53,55.95,WA
+2019,West Virginia,54,57.56,WV
+2019,Wisconsin,55,58.06,WI
+2019,Wyoming,56,60.82,WY
+2020,Alabama,1,60.58,AL
+2020,Alaska,2,65.73,AK
+2020,Arizona,4,53.96,AZ
+2020,Arkansas,5,60.65,AR
+2020,California,6,52.41,CA
+2020,Colorado,8,51.47,CO
+2020,Connecticut,9,49.94,CT
+2020,Delaware,10,56.98,DE
+2020,District of Columbia,11,46.14,DC
+2020,Florida,12,53.44,FL
+2020,Georgia,13,55.74,GA
+2020,Hawaii,15,61.1,HI
+2020,Idaho,16,60.94,ID
+2020,Illinois,17,53.82,IL
+2020,Indiana,18,59.83,IN
+2020,Iowa,19,60.4,IA
+2020,Kansas,20,61.1,KS
+2020,Kentucky,21,60.81,KY
+2020,Louisiana,22,62.25,LA
+2020,Maine,23,49.21,ME
+2020,Maryland,24,57.73,MD
+2020,Massachusetts,25,47.61,MA
+2020,Michigan,26,55.56,MI
+2020,Minnesota,27,58.34,MN
+2020,Mississippi,28,61.03,MS
+2020,Missouri,29,58.66,MO
+2020,Montana,30,54.3,MT
+2020,Nebraska,31,64.69,NE
+2020,Nevada,32,54.83,NV
+2020,New Hampshire,33,47.68,NH
+2020,New Jersey,34,58.6,NJ
+2020,New Mexico,35,54.61,NM
+2020,New York,36,54.58,NY
+2020,North Carolina,37,56.21,NC
+2020,North Dakota,38,67.41,ND
+2020,Ohio,39,58.34,OH
+2020,Oklahoma,40,60.97,OK
+2020,Oregon,41,47.76,OR
+2020,Pennsylvania,42,54.9,PA
+2020,Rhode Island,44,48.67,RI
+2020,South Carolina,45,55.91,SC
+2020,South Dakota,46,66.72,SD
+2020,Tennessee,47,58.49,TN
+2020,Texas,48,60.21,TX
+2020,Utah,49,64.07,UT
+2020,Vermont,50,44.68,VT
+2020,Virginia,51,55.81,VA
+2020,Washington,53,54.01,WA
+2020,West Virginia,54,55.27,WV
+2020,Wisconsin,55,55.43,WI
+2020,Wyoming,56,56.43,WY

@@ -1,0 +1,84 @@
+"Notes"	"State"	"State Code"	Births	Female Population	Fertility Rate
+	"Alabama"	"01"	60453	950989	63.57
+	"Alaska"	"02"	10459	141584	73.87
+	"Arizona"	"04"	96199	1193895	80.58
+	"Arkansas"	"05"	39208	564475	69.46
+	"California"	"06"	548882	7787065	70.49
+	"Colorado"	"08"	68944	990942	69.57
+	"Connecticut"	"09"	41718	709938	58.76
+	"Delaware"	"10"	11643	178400	65.26
+	"District of Columbia"	"11"	7971	143933	55.38
+	"Florida"	"12"	226240	3516498	64.34
+	"Georgia"	"13"	142200	1991058	71.42
+	"Hawaii"	"15"	17924	258859	69.24
+	"Idaho"	"16"	23062	292111	78.95
+	"Illinois"	"17"	179020	2671641	67.01
+	"Indiana"	"18"	87193	1301573	66.99
+	"Iowa"	"19"	39311	587349	66.93
+	"Kansas"	"20"	39888	559780	71.26
+	"Kentucky"	"21"	56444	867896	65.04
+	"Louisiana"	"22"	60937	982636	62.01
+	"Maine"	"23"	14112	259710	54.34
+	"Maryland"	"24"	74980	1209062	62.02
+	"Massachusetts"	"25"	76865	1374026	55.94
+	"Michigan"	"26"	127706	2064063	61.87
+	"Minnesota"	"27"	70919	1069949	66.28
+	"Mississippi"	"28"	42395	617474	68.66
+	"Missouri"	"29"	78618	1193695	65.86
+	"Montana"	"30"	11583	180875	64.04
+	"Nebraska"	"31"	26145	357665	73.10
+	"Nevada"	"32"	37268	504187	73.92
+	"New Hampshire"	"33"	14420	266657	54.08
+	"New Jersey"	"34"	113776	1786210	63.70
+	"New Mexico"	"35"	28835	395135	72.98
+	"New York"	"36"	246351	4113153	59.89
+	"North Carolina"	"37"	123096	1848482	66.59
+	"North Dakota"	"38"	8390	129494	64.79
+	"Ohio"	"39"	148388	2336700	63.50
+	"Oklahoma"	"40"	51801	722500	71.70
+	"Oregon"	"41"	45922	729961	62.91
+	"Pennsylvania"	"42"	145383	2485696	58.49
+	"Rhode Island"	"44"	12697	228195	55.64
+	"South Carolina"	"45"	57711	896948	64.34
+	"South Dakota"	"46"	11462	153478	74.68
+	"Tennessee"	"47"	81747	1254740	65.15
+	"Texas"	"48"	385915	4986050	77.40
+	"Utah"	"49"	51556	555517	92.81
+	"Vermont"	"50"	6295	125327	50.23
+	"Virginia"	"51"	104555	1632658	64.04
+	"Washington"	"53"	82703	1313489	62.96
+	"West Virginia"	"54"	20836	352245	59.15
+	"Wisconsin"	"55"	70984	1135248	62.53
+	"Wyoming"	"56"	7239	101425	71.37
+"Total"			4138349	62070636	66.67
+"---"
+"Dataset: Natality, 2003-2006"
+"Query Parameters:"
+"Year: 2005"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: Default intercensal populations for years 2003-2006"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Dec 5, 2022 2:27:29 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2003-2006, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-v2006.html on Dec 5, 2022 2:27:29 AM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, location, or year of birth, then the same sub-set for"
+"age, race, location and year applies to the denominator population. However, if you sub-set mother's age selecting some years"
+"not in the 15 - 44 range, those years of mother's age ouside this range will not be included in the denominator population. If"
+"you sub-set mother's age selecting only years outside the 15 - 44 range, the denominator population returned will be zero and"
+"flagged ""Not Available""."
+"3. Birth rates and fertility rates for years 2003-2006 are calculated using the revised intercensal bridged-race series of July"
+"1st estimates of the resident population, released by NCHS on October 26, 2012. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality.html#Denominator-Population-Sources."

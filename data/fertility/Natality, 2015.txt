@@ -1,0 +1,100 @@
+"Notes"	"State"	"State Code"	Births	Female Population	Fertility Rate
+	"Alabama"	"01"	59657	958981	62.21
+	"Alaska"	"02"	11282	146514	77.00
+	"Arizona"	"04"	85351	1319880	64.67
+	"Arkansas"	"05"	38886	576460	67.46
+	"California"	"06"	491748	8084612	60.83
+	"Colorado"	"08"	66581	1106534	60.17
+	"Connecticut"	"09"	35746	680629	52.52
+	"Delaware"	"10"	11166	180812	61.75
+	"District of Columbia"	"11"	9578	181381	52.81
+	"Florida"	"12"	224269	3740217	59.96
+	"Georgia"	"13"	131404	2119884	61.99
+	"Hawaii"	"15"	18420	268188	68.68
+	"Idaho"	"16"	22827	317807	71.83
+	"Illinois"	"17"	158116	2577634	61.34
+	"Indiana"	"18"	84040	1296510	64.82
+	"Iowa"	"19"	39482	588384	67.10
+	"Kansas"	"20"	39154	560142	69.90
+	"Kentucky"	"21"	55971	851631	65.72
+	"Louisiana"	"22"	64692	943958	68.53
+	"Maine"	"23"	12607	232112	54.31
+	"Maryland"	"24"	73616	1200564	61.32
+	"Massachusetts"	"25"	71492	1373958	52.03
+	"Michigan"	"26"	113312	1880657	60.25
+	"Minnesota"	"27"	69834	1054063	66.25
+	"Mississippi"	"28"	38394	599445	64.05
+	"Missouri"	"29"	75061	1176557	63.80
+	"Montana"	"30"	12583	186922	67.32
+	"Nebraska"	"31"	26679	366370	72.82
+	"Nevada"	"32"	36298	573825	63.26
+	"New Hampshire"	"33"	12433	242336	51.30
+	"New Jersey"	"34"	103127	1718587	60.01
+	"New Mexico"	"35"	25816	395491	65.28
+	"New York"	"36"	237274	4036145	58.79
+	"North Carolina"	"37"	120843	1991882	60.67
+	"North Dakota"	"38"	11314	148084	76.40
+	"Ohio"	"39"	139264	2207849	63.08
+	"Oklahoma"	"40"	53122	768327	69.14
+	"Oregon"	"41"	45655	786355	58.06
+	"Pennsylvania"	"42"	141047	2400883	58.75
+	"Rhode Island"	"44"	10993	209560	52.46
+	"South Carolina"	"45"	58139	951940	61.07
+	"South Dakota"	"46"	12336	157806	78.17
+	"Tennessee"	"47"	81685	1299690	62.85
+	"Texas"	"48"	403618	5748631	70.21
+	"Utah"	"49"	50778	651344	77.96
+	"Vermont"	"50"	5903	115598	51.06
+	"Virginia"	"51"	103303	1684883	61.31
+	"Washington"	"53"	88990	1417209	62.79
+	"West Virginia"	"54"	19805	333468	59.39
+	"Wisconsin"	"55"	67041	1085396	61.77
+	"Wyoming"	"56"	7765	110670	70.16
+"Total"			3978497	63606765	62.55
+"---"
+"Dataset: Natality, 2007-2021"
+"Query Parameters:"
+"Year: 2015"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: Default intercensal populations for years 2007-2009"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Dec 5, 2022 1:55:12 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2020, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Dec 5, 2022 1:55:12 AM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, mother's hispanicity, location, or year of birth, then"
+"the same sub-set for age, race, hispanicity, location and year applies to the denominator population. However, if you sub-set"
+"mother's age selecting some years not in the 15 - 44 range, those years of mother's age ouside this range will not be included"
+"in the denominator population. If you sub-set mother's age selecting only years outside the 15 - 44 range, the denominator"
+"population returned will be zero and flagged ""Not Available""."
+"3. Birth rates and fertility rates are calculated using the following populations: The populations for year 2019 are from the"
+"postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on June 25, 2020; and"
+"the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on July 9, 2020. The"
+"populations for year 2018 are from the postcensal single-race series of July 1st estimates of the resident population, released"
+"by Census Bureau on June 21, 2019; and the postcensal bridged-race series of July 1st estimates of the resident population,"
+"released by NCHS on June 27, 2019. The populations for year 2017 are from the postcensal single-race series of July 1st"
+"estimates of the resident population, released by Census Bureau on June 21, 2018; and the postcensal bridged-race series of July"
+"1st estimates of the resident population, released by NCHS on June 27, 2018. The populations for year 2016 are from the"
+"postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on June 22, 2017; and"
+"the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 26, 2017. The"
+"populations for year 2015 are from the postcensal bridged-race series of July 1st estimates of the resident population, released"
+"by NCHS on June 28, 2016. The populations for year 2014 are from the postcensal bridged-race series of July 1st estimates of the"
+"resident population, released by NCHS on June 30, 2015. The populations for year 2013 are from the postcensal bridged-race"
+"series of July 1st estimates of the resident population, released by NCHS on June 26, 2014. The populations for year 2012 are"
+"from the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 13, 2013. The"
+"populations for year 2011 are from the postcensal bridged-race series of July 1st estimates of the resident population, released"
+"by NCHS on July 18, 2012. The populations for year 2010 are the bridged-race April 1, 2010 Census counts. The populations for"
+"years 2007-2009 are from the revised intercensal bridged-race series of July 1st estimates of the resident population, released"
+"by NCHS on October 26, 2012. More information: http://wonder.cdc.gov/wonder/help/Natality.html#Denominator-Population-Sources."

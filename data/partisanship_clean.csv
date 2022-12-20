@@ -1,0 +1,307 @@
+year,state_name,state,stfips,party_index,party,party_fct
+2000,Alabama,AL,1,0,Republican,Rep
+2004,Alabama,AL,1,0,Republican,Rep
+2008,Alabama,AL,1,0,Republican,Rep
+2012,Alabama,AL,1,0,Republican,Rep
+2016,Alabama,AL,1,0,Republican,Rep
+2020,Alabama,AL,1,0,Republican,Rep
+2000,Alaska,AK,2,0,Republican,Rep
+2004,Alaska,AK,2,0,Republican,Rep
+2008,Alaska,AK,2,0,Republican,Rep
+2012,Alaska,AK,2,0,Republican,Rep
+2016,Alaska,AK,2,0,Republican,Rep
+2020,Alaska,AK,2,0,Republican,Rep
+2000,Arizona,AZ,4,1,Republican,Rep
+2004,Arizona,AZ,4,1,Republican,Rep
+2008,Arizona,AZ,4,1,Republican,Rep
+2012,Arizona,AZ,4,1,Republican,Rep
+2016,Arizona,AZ,4,1,Republican,Rep
+2020,Arizona,AZ,4,1,Democrat,Rep
+2000,Arkansas,AR,5,0,Republican,Rep
+2004,Arkansas,AR,5,0,Republican,Rep
+2008,Arkansas,AR,5,0,Republican,Rep
+2012,Arkansas,AR,5,0,Republican,Rep
+2016,Arkansas,AR,5,0,Republican,Rep
+2020,Arkansas,AR,5,0,Republican,Rep
+2000,California,CA,6,6,Democrat,Dem
+2004,California,CA,6,6,Democrat,Dem
+2008,California,CA,6,6,Democrat,Dem
+2012,California,CA,6,6,Democrat,Dem
+2016,California,CA,6,6,Democrat,Dem
+2020,California,CA,6,6,Democrat,Dem
+2000,Colorado,CO,8,4,Republican,Dem
+2004,Colorado,CO,8,4,Republican,Dem
+2008,Colorado,CO,8,4,Democrat,Dem
+2012,Colorado,CO,8,4,Democrat,Dem
+2016,Colorado,CO,8,4,Democrat,Dem
+2020,Colorado,CO,8,4,Democrat,Dem
+2000,Connecticut,CT,9,6,Democrat,Dem
+2004,Connecticut,CT,9,6,Democrat,Dem
+2008,Connecticut,CT,9,6,Democrat,Dem
+2012,Connecticut,CT,9,6,Democrat,Dem
+2016,Connecticut,CT,9,6,Democrat,Dem
+2020,Connecticut,CT,9,6,Democrat,Dem
+2000,Delaware,DE,10,6,Democrat,Dem
+2004,Delaware,DE,10,6,Democrat,Dem
+2008,Delaware,DE,10,6,Democrat,Dem
+2012,Delaware,DE,10,6,Democrat,Dem
+2016,Delaware,DE,10,6,Democrat,Dem
+2020,Delaware,DE,10,6,Democrat,Dem
+2000,District Of Columbia,DC,11,6,Democrat,Dem
+2004,District Of Columbia,DC,11,6,Democrat,Dem
+2008,District Of Columbia,DC,11,6,Democrat,Dem
+2012,District Of Columbia,DC,11,6,Democrat,Dem
+2016,District Of Columbia,DC,11,6,Democrat,Dem
+2020,District Of Columbia,DC,11,6,Democrat,Dem
+2000,Florida,FL,12,2,Republican,Rep
+2004,Florida,FL,12,2,Republican,Rep
+2008,Florida,FL,12,2,Democrat,Rep
+2012,Florida,FL,12,2,Democrat,Rep
+2016,Florida,FL,12,2,Republican,Rep
+2020,Florida,FL,12,2,Republican,Rep
+2000,Georgia,GA,13,1,Republican,Rep
+2004,Georgia,GA,13,1,Republican,Rep
+2008,Georgia,GA,13,1,Republican,Rep
+2012,Georgia,GA,13,1,Republican,Rep
+2016,Georgia,GA,13,1,Republican,Rep
+2020,Georgia,GA,13,1,Democrat,Rep
+2000,Hawaii,HI,15,6,Democrat,Dem
+2004,Hawaii,HI,15,6,Democrat,Dem
+2008,Hawaii,HI,15,6,Democrat,Dem
+2012,Hawaii,HI,15,6,Democrat,Dem
+2016,Hawaii,HI,15,6,Democrat,Dem
+2020,Hawaii,HI,15,6,Democrat,Dem
+2000,Idaho,ID,16,0,Republican,Rep
+2004,Idaho,ID,16,0,Republican,Rep
+2008,Idaho,ID,16,0,Republican,Rep
+2012,Idaho,ID,16,0,Republican,Rep
+2016,Idaho,ID,16,0,Republican,Rep
+2020,Idaho,ID,16,0,Republican,Rep
+2000,Illinois,IL,17,6,Democrat,Dem
+2004,Illinois,IL,17,6,Democrat,Dem
+2008,Illinois,IL,17,6,Democrat,Dem
+2012,Illinois,IL,17,6,Democrat,Dem
+2016,Illinois,IL,17,6,Democrat,Dem
+2020,Illinois,IL,17,6,Democrat,Dem
+2000,Indiana,IN,18,1,Republican,Rep
+2004,Indiana,IN,18,1,Republican,Rep
+2008,Indiana,IN,18,1,Democrat,Rep
+2012,Indiana,IN,18,1,Republican,Rep
+2016,Indiana,IN,18,1,Republican,Rep
+2020,Indiana,IN,18,1,Republican,Rep
+2000,Iowa,IA,19,3,Democrat,Neutral
+2004,Iowa,IA,19,3,Republican,Neutral
+2008,Iowa,IA,19,3,Democrat,Neutral
+2012,Iowa,IA,19,3,Democrat,Neutral
+2016,Iowa,IA,19,3,Republican,Neutral
+2020,Iowa,IA,19,3,Republican,Neutral
+2000,Kansas,KS,20,0,Republican,Rep
+2004,Kansas,KS,20,0,Republican,Rep
+2008,Kansas,KS,20,0,Republican,Rep
+2012,Kansas,KS,20,0,Republican,Rep
+2016,Kansas,KS,20,0,Republican,Rep
+2020,Kansas,KS,20,0,Republican,Rep
+2000,Kentucky,KY,21,0,Republican,Rep
+2004,Kentucky,KY,21,0,Republican,Rep
+2008,Kentucky,KY,21,0,Republican,Rep
+2012,Kentucky,KY,21,0,Republican,Rep
+2016,Kentucky,KY,21,0,Republican,Rep
+2020,Kentucky,KY,21,0,Republican,Rep
+2000,Louisiana,LA,22,0,Republican,Rep
+2004,Louisiana,LA,22,0,Republican,Rep
+2008,Louisiana,LA,22,0,Republican,Rep
+2012,Louisiana,LA,22,0,Republican,Rep
+2016,Louisiana,LA,22,0,Republican,Rep
+2020,Louisiana,LA,22,0,Republican,Rep
+2000,Maine,ME,23,6,Democrat,Dem
+2004,Maine,ME,23,6,Democrat,Dem
+2008,Maine,ME,23,6,Democrat,Dem
+2012,Maine,ME,23,6,Democrat,Dem
+2016,Maine,ME,23,6,Democrat,Dem
+2020,Maine,ME,23,6,Democrat,Dem
+2000,Maryland,MD,24,6,Democrat,Dem
+2004,Maryland,MD,24,6,Democrat,Dem
+2008,Maryland,MD,24,6,Democrat,Dem
+2012,Maryland,MD,24,6,Democrat,Dem
+2016,Maryland,MD,24,6,Democrat,Dem
+2020,Maryland,MD,24,6,Democrat,Dem
+2000,Massachusetts,MA,25,6,Democrat,Dem
+2004,Massachusetts,MA,25,6,Democrat,Dem
+2008,Massachusetts,MA,25,6,Democrat,Dem
+2012,Massachusetts,MA,25,6,Democrat,Dem
+2016,Massachusetts,MA,25,6,Democrat,Dem
+2020,Massachusetts,MA,25,6,Democrat,Dem
+2000,Michigan,MI,26,5,Democrat,Dem
+2004,Michigan,MI,26,5,Democrat,Dem
+2008,Michigan,MI,26,5,Democrat,Dem
+2012,Michigan,MI,26,5,Democrat,Dem
+2016,Michigan,MI,26,5,Republican,Dem
+2020,Michigan,MI,26,5,Democrat,Dem
+2000,Minnesota,MN,27,6,Democrat,Dem
+2004,Minnesota,MN,27,6,Democrat,Dem
+2008,Minnesota,MN,27,6,Democrat,Dem
+2012,Minnesota,MN,27,6,Democrat,Dem
+2016,Minnesota,MN,27,6,Democrat,Dem
+2020,Minnesota,MN,27,6,Democrat,Dem
+2000,Mississippi,MS,28,0,Republican,Rep
+2004,Mississippi,MS,28,0,Republican,Rep
+2008,Mississippi,MS,28,0,Republican,Rep
+2012,Mississippi,MS,28,0,Republican,Rep
+2016,Mississippi,MS,28,0,Republican,Rep
+2020,Mississippi,MS,28,0,Republican,Rep
+2000,Missouri,MO,29,0,Republican,Rep
+2004,Missouri,MO,29,0,Republican,Rep
+2008,Missouri,MO,29,0,Republican,Rep
+2012,Missouri,MO,29,0,Republican,Rep
+2016,Missouri,MO,29,0,Republican,Rep
+2020,Missouri,MO,29,0,Republican,Rep
+2000,Montana,MT,30,0,Republican,Rep
+2004,Montana,MT,30,0,Republican,Rep
+2008,Montana,MT,30,0,Republican,Rep
+2012,Montana,MT,30,0,Republican,Rep
+2016,Montana,MT,30,0,Republican,Rep
+2020,Montana,MT,30,0,Republican,Rep
+2000,Nebraska,NE,31,0,Republican,Rep
+2004,Nebraska,NE,31,0,Republican,Rep
+2008,Nebraska,NE,31,0,Republican,Rep
+2012,Nebraska,NE,31,0,Republican,Rep
+2016,Nebraska,NE,31,0,Republican,Rep
+2020,Nebraska,NE,31,0,Republican,Rep
+2000,Nevada,NV,32,4,Republican,Dem
+2004,Nevada,NV,32,4,Republican,Dem
+2008,Nevada,NV,32,4,Democrat,Dem
+2012,Nevada,NV,32,4,Democrat,Dem
+2016,Nevada,NV,32,4,Democrat,Dem
+2020,Nevada,NV,32,4,Democrat,Dem
+2000,New Hampshire,NH,33,5,Republican,Dem
+2004,New Hampshire,NH,33,5,Democrat,Dem
+2008,New Hampshire,NH,33,5,Democrat,Dem
+2012,New Hampshire,NH,33,5,Democrat,Dem
+2016,New Hampshire,NH,33,5,Democrat,Dem
+2020,New Hampshire,NH,33,5,Democrat,Dem
+2000,New Jersey,NJ,34,6,Democrat,Dem
+2004,New Jersey,NJ,34,6,Democrat,Dem
+2008,New Jersey,NJ,34,6,Democrat,Dem
+2012,New Jersey,NJ,34,6,Democrat,Dem
+2016,New Jersey,NJ,34,6,Democrat,Dem
+2020,New Jersey,NJ,34,6,Democrat,Dem
+2000,New Mexico,NM,35,5,Democrat,Dem
+2004,New Mexico,NM,35,5,Republican,Dem
+2008,New Mexico,NM,35,5,Democrat,Dem
+2012,New Mexico,NM,35,5,Democrat,Dem
+2016,New Mexico,NM,35,5,Democrat,Dem
+2020,New Mexico,NM,35,5,Democrat,Dem
+2000,New York,NY,36,6,Democrat,Dem
+2004,New York,NY,36,6,Democrat,Dem
+2008,New York,NY,36,6,Democrat,Dem
+2012,New York,NY,36,6,Democrat,Dem
+2016,New York,NY,36,6,Democrat,Dem
+2020,New York,NY,36,6,Democrat,Dem
+2000,North Carolina,NC,37,1,Republican,Rep
+2004,North Carolina,NC,37,1,Republican,Rep
+2008,North Carolina,NC,37,1,Democrat,Rep
+2012,North Carolina,NC,37,1,Republican,Rep
+2016,North Carolina,NC,37,1,Republican,Rep
+2020,North Carolina,NC,37,1,Republican,Rep
+2000,North Dakota,ND,38,0,Republican,Rep
+2004,North Dakota,ND,38,0,Republican,Rep
+2008,North Dakota,ND,38,0,Republican,Rep
+2012,North Dakota,ND,38,0,Republican,Rep
+2016,North Dakota,ND,38,0,Republican,Rep
+2020,North Dakota,ND,38,0,Republican,Rep
+2000,Ohio,OH,39,2,Republican,Rep
+2004,Ohio,OH,39,2,Republican,Rep
+2008,Ohio,OH,39,2,Democrat,Rep
+2012,Ohio,OH,39,2,Democrat,Rep
+2016,Ohio,OH,39,2,Republican,Rep
+2020,Ohio,OH,39,2,Republican,Rep
+2000,Oklahoma,OK,40,0,Republican,Rep
+2004,Oklahoma,OK,40,0,Republican,Rep
+2008,Oklahoma,OK,40,0,Republican,Rep
+2012,Oklahoma,OK,40,0,Republican,Rep
+2016,Oklahoma,OK,40,0,Republican,Rep
+2020,Oklahoma,OK,40,0,Republican,Rep
+2000,Oregon,OR,41,6,Democrat,Dem
+2004,Oregon,OR,41,6,Democrat,Dem
+2008,Oregon,OR,41,6,Democrat,Dem
+2012,Oregon,OR,41,6,Democrat,Dem
+2016,Oregon,OR,41,6,Democrat,Dem
+2020,Oregon,OR,41,6,Democrat,Dem
+2000,Pennsylvania,PA,42,5,Democrat,Dem
+2004,Pennsylvania,PA,42,5,Democrat,Dem
+2008,Pennsylvania,PA,42,5,Democrat,Dem
+2012,Pennsylvania,PA,42,5,Democrat,Dem
+2016,Pennsylvania,PA,42,5,Republican,Dem
+2020,Pennsylvania,PA,42,5,Democrat,Dem
+2000,Rhode Island,RI,44,6,Democrat,Dem
+2004,Rhode Island,RI,44,6,Democrat,Dem
+2008,Rhode Island,RI,44,6,Democrat,Dem
+2012,Rhode Island,RI,44,6,Democrat,Dem
+2016,Rhode Island,RI,44,6,Democrat,Dem
+2020,Rhode Island,RI,44,6,Democrat,Dem
+2000,South Carolina,SC,45,0,Republican,Rep
+2004,South Carolina,SC,45,0,Republican,Rep
+2008,South Carolina,SC,45,0,Republican,Rep
+2012,South Carolina,SC,45,0,Republican,Rep
+2016,South Carolina,SC,45,0,Republican,Rep
+2020,South Carolina,SC,45,0,Republican,Rep
+2000,South Dakota,SD,46,0,Republican,Rep
+2004,South Dakota,SD,46,0,Republican,Rep
+2008,South Dakota,SD,46,0,Republican,Rep
+2012,South Dakota,SD,46,0,Republican,Rep
+2016,South Dakota,SD,46,0,Republican,Rep
+2020,South Dakota,SD,46,0,Republican,Rep
+2000,Tennessee,TN,47,0,Republican,Rep
+2004,Tennessee,TN,47,0,Republican,Rep
+2008,Tennessee,TN,47,0,Republican,Rep
+2012,Tennessee,TN,47,0,Republican,Rep
+2016,Tennessee,TN,47,0,Republican,Rep
+2020,Tennessee,TN,47,0,Republican,Rep
+2000,Texas,TX,48,0,Republican,Rep
+2004,Texas,TX,48,0,Republican,Rep
+2008,Texas,TX,48,0,Republican,Rep
+2012,Texas,TX,48,0,Republican,Rep
+2016,Texas,TX,48,0,Republican,Rep
+2020,Texas,TX,48,0,Republican,Rep
+2000,Utah,UT,49,0,Republican,Rep
+2004,Utah,UT,49,0,Republican,Rep
+2008,Utah,UT,49,0,Republican,Rep
+2012,Utah,UT,49,0,Republican,Rep
+2016,Utah,UT,49,0,Republican,Rep
+2020,Utah,UT,49,0,Republican,Rep
+2000,Vermont,VT,50,6,Democrat,Dem
+2004,Vermont,VT,50,6,Democrat,Dem
+2008,Vermont,VT,50,6,Democrat,Dem
+2012,Vermont,VT,50,6,Democrat,Dem
+2016,Vermont,VT,50,6,Democrat,Dem
+2020,Vermont,VT,50,6,Democrat,Dem
+2000,Virginia,VA,51,4,Republican,Dem
+2004,Virginia,VA,51,4,Republican,Dem
+2008,Virginia,VA,51,4,Democrat,Dem
+2012,Virginia,VA,51,4,Democrat,Dem
+2016,Virginia,VA,51,4,Democrat,Dem
+2020,Virginia,VA,51,4,Democrat,Dem
+2000,Washington,WA,53,6,Democrat,Dem
+2004,Washington,WA,53,6,Democrat,Dem
+2008,Washington,WA,53,6,Democrat,Dem
+2012,Washington,WA,53,6,Democrat,Dem
+2016,Washington,WA,53,6,Democrat,Dem
+2020,Washington,WA,53,6,Democrat,Dem
+2000,West Virginia,WV,54,0,Republican,Rep
+2004,West Virginia,WV,54,0,Republican,Rep
+2008,West Virginia,WV,54,0,Republican,Rep
+2012,West Virginia,WV,54,0,Republican,Rep
+2016,West Virginia,WV,54,0,Republican,Rep
+2020,West Virginia,WV,54,0,Republican,Rep
+2000,Wisconsin,WI,55,5,Democrat,Dem
+2004,Wisconsin,WI,55,5,Democrat,Dem
+2008,Wisconsin,WI,55,5,Democrat,Dem
+2012,Wisconsin,WI,55,5,Democrat,Dem
+2016,Wisconsin,WI,55,5,Republican,Dem
+2020,Wisconsin,WI,55,5,Democrat,Dem
+2000,Wyoming,WY,56,0,Republican,Rep
+2004,Wyoming,WY,56,0,Republican,Rep
+2008,Wyoming,WY,56,0,Republican,Rep
+2012,Wyoming,WY,56,0,Republican,Rep
+2016,Wyoming,WY,56,0,Republican,Rep
+2020,Wyoming,WY,56,0,Republican,Rep

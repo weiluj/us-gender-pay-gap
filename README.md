@@ -18,7 +18,7 @@ There are three major datasets used:[Get Data Here](https://drive.google.com/dri
 
  2. __Plotting__
  [Shiny Dashboard here](https://weiluj-uchicago.shinyapps.io/final-project-weiluj/?_ga=2.26338805.996254604.1674329823-442783070.1674329823/)
- * Static plot:
+ * Static plot: 
 `Overall`
    * Time Series Plot of Women and Men's Median Wage Trend in the US
    * Time Series Plot of Women's Median Wage as a Percentage of Men

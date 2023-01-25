@@ -19,12 +19,12 @@ There are three major datasets used:[Get Data Here](https://drive.google.com/dri
  2. __Plotting__
  [Shiny Dashboard here](https://weiluj-uchicago.shinyapps.io/final-project-weiluj/?_ga=2.26338805.996254604.1674329823-442783070.1674329823/)
  * Static plot:
-  * `Overall`
+`Overall`
    * Time Series Plot of Women and Men's Median Wage Trend in the US
    * Time Series Plot of Women's Median Wage as a Percentage of Men
    * Time Series Plot of Women's Median Wage as a Percentage of Men by Education Level, Age Group, Race, in the past 20 years
    * Time Series Plot of Women's Median Wage as a Percentage of Men by Number of children and Marital Status in the past 20 years 
-  * `State Level`
+`State Level`
    * Hexbin spatial plot of Women's Overall Median Wage Compared to Men
    * Comparison of several state level socioeconomic characteristics, including *fertility & gdp per capita growth*, *fertility & poverty/unempolyment rate*, *fertility & state partisanship attitude by presidential election*
    * Lowest Income Female Group Plot by Race in each State and Lowest Equal Pay Female Group Plot

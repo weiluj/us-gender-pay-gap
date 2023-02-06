@@ -4,7 +4,7 @@
 Research Question: I used data from Current Population Survey to analyze the gender wage pay gap in the US from 2000 to 2020. Research has shown that although female's labor participation rate has being increasing, the gender wage gap is not narrowing down as expected. According to Claudia Goldin, between 1970s to 1990s, with the increasing labor force participation, there was a huge narrowing down of gender wage gap. However, the increase seems to stall starting the 21th century, as the labor force increase started to be steady. The wage gap still exists even after holding marital status, number of children etc. Therefore, I want to take a closer look at the wage gap between women and men within different socioeconomic groups and geographic locations to find out the underlying factors and changing trend.
 
 1. __Dataset__  
-There are three major datasets used:[Get Data Here](https://drive.google.com/drive/folders/1y3B0fA5AhIfY8nG5gEL9ng8BOwPORu4J?usp=sharing)
+There are three major datasets used: [Get Data Here](https://drive.google.com/drive/folders/1y3B0fA5AhIfY8nG5gEL9ng8BOwPORu4J?usp=sharing)
  * `Current Population Survey`, US Bureau of Statistics and NBER. CPS is a monthly survey among more than 25,000 households conducted by US Bureau of Statictics and Cencus. I used the merged outgoing households group subset of CPS compiled by NBER, as the dataset is widely used among research on income inequality. The final merged and cleaned dataset includes 1,910,147 samples from 2000 to 2020 on their labor force status and socioeconomic characteristics. Variables including: 
    * Labor force major variables: Working hours, earnings per week
    * Labor force disaggregation variables: working sector, industry, occupation

@@ -36,9 +36,11 @@ ui <- navbarPage(
       sidebarPanel(
         width = 3,
         h4(em(strong("Research Question"))),
-        p(h5("Gender wage gap is an issue shared worldwide. In the US, women are only paid 80 cents for 1 dollar paid for men.")),
-        p(h5("Research indicates that the wage gap does not narrow down in the US despite increse of women's labor force participation starting late 1990s.")),
-        p(h5("This reseaerch project looks at Current Population Survey data from 2000 to 2020 by US Census to Discorve whether the Gender Wage Gap is Still Expanding.")),
+        tags$ul(
+          tags$li(h5("Gender wage gap is an issue shared worldwide. In the US, women are only paid $0.8 for $1 paid for men.")),
+          tags$li(h5("Research indicates that the wage gap does not narrow down in the US despite increse of women's labor force participation starting late 1990s.")),
+          tags$li(h5("This reseaerch project uses Current Population Survey data from 2000 to 2020 by US Census to Discorve whether the Gender Wage Gap is Still Expanding."))
+          ),
         br(),
         sliderInput("year", "Select a Year", value = 2000, min = 2000, max = 2020, step = 1),
         br(),
@@ -175,9 +177,10 @@ server <- function(input, output) {
                           '#fcbba1',
                           '#fc9272',
                           '#fb6a4a',
+                          '#cb181d',
                           '#a50f15',
                           '#67000d'),
-                        bins = c(0.57, 0.625, 0.691, 0.757, 0.823, 0.9))
+                        bins = c(0.57, 0.625, 0.691, 0.757, 0.823, 0.9, 0.966))
     popup1 <- paste0("<span style='color: #7f0000'><strong>Wage Ratio</strong></span>",
                      "<br><span style='color: salmon;'><strong>state: </strong></span>", 
                      data_st()$NAME, 
@@ -220,8 +223,8 @@ server <- function(input, output) {
       geom_col(aes(state, value),
         fill = "#9A8A76"
       ) +
-      scale_y_continuous(breaks = seq(0, 0.8, 0.2),
-                         limits = c(0, 0.876)) +
+      scale_y_continuous(breaks = seq(0, 1, 0.2),
+                         limits = c(0, 0.97)) +
       theme(axis.title.x = element_blank(),
             axis.title.y = element_text("Wage Ratio"))
     ggplotly(plt)
@@ -234,8 +237,8 @@ server <- function(input, output) {
       head(5) %>%
       ggplot() +
       geom_col(aes(state, value)) +
-      scale_y_continuous(breaks = seq(0, 0.8, 0.2),
-                         limits = c(0, 0.876)) +
+      scale_y_continuous(breaks = seq(0, 1, 0.2),
+                         limits = c(0, 0.97)) +
       theme(axis.title.x = element_blank(),
             axis.title.y = element_text("Wage Ratio"))
     ggplotly(plt)

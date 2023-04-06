@@ -67,4 +67,3 @@ There are three major datasets used: [Get Data Here](https://drive.google.com/dr
  * Plots
    * All plots included under `images` folder
  * Write up in `ReadMe.RMD`
-

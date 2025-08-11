@@ -39,7 +39,7 @@ ui <- navbarPage(
         tags$ul(
           tags$li(h5("Gender wage gap is an issue shared worldwide. In the US, women are only paid $0.8 for $1 paid for men.")),
           tags$li(h5("Research indicates that the wage gap does not narrow down in the US despite increse of women's labor force participation starting late 1990s.")),
-          tags$li(h5("This reseaerch project uses Current Population Survey data from 2000 to 2020 by US Census to Discorve whether the Gender Wage Gap is Still Expanding."))
+          tags$li(h5("This reseaerch project uses Current Population Survey data from 2000 to 2020 by US Census to discorve whether the gender wage gap is still expanding."))
           ),
         br(),
         sliderInput("year", "Select a Year", value = 2000, min = 2000, max = 2020, step = 1),

@@ -17,7 +17,7 @@ There are three major datasets used: [Get Data Here](https://drive.google.com/dr
    * Women Fertility data: fertility rate of women; Downloaded from [CDC Natality Database](https://wonder.cdc.gov/natality.html) and merged all datasets from 2003 to 2020.
 
  2. __Plotting__
- [Shiny Dashboard here](https://weiluj-uchicago.shinyapps.io/final-project-weiluj/)
+ [Shiny Dashboard here](https://weiluj-uchicago.shinyapps.io/US_Gender_Pay_Gap/)
  * Static plot:
  `Overall`
    * Time Series Plot of Women and Men's Median Wage Trend in the US
